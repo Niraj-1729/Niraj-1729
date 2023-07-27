@@ -1,4 +1,4 @@
-![logo](https://github.com/Niraj-1729/Niraj-1729/blob/main/profile.jpg)
+![logo](https://github.com/Niraj-1729/Niraj-1729/blob/main/profile.jpg )
 <h1 align="center">Hi 👋, I'm Niraj Kumar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif"> 
