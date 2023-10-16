@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# I'm an Artificial Human 🤖:
 👋 Hey there, I'm Niraj Kumar!<br>🚀 Innovative 3rd-year Computer Science student with a passion for crafting exceptional digital experiences<br>💻 I specialize in front-end web development, creating captivating UI designs, and building full-stack Flutter applications. <br> 🌟 Let's connect, collaborate, and code the future together!
 
 
