@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hey there, I'm Niraj Kumar!<br>🚀 Innovative 3rd-year Computer Science student with a passion for crafting exceptional digital experiences<br>💻 I specialize in front-end web development, creating captivating UI designs, and building full-stack Flutter applications.<br>⚙️ From ideation to execution, I thrive at every stage of the development process, including crafting elegant backends to support my applications.<br>📱 Whether it's a sleek web interface or a robust mobile app, I'm dedicated to creating user-friendly solutions that not only meet but exceed expectations.<br>🌟 Let's connect, collaborate, and code the future together!
+👋 Hey there, I'm Niraj Kumar!<br>🚀 Innovative 3rd-year Computer Science student with a passion for crafting exceptional digital experiences<br>💻 I specialize in front-end web development, creating captivating UI designs, and building full-stack Flutter applications. <br> 🌟 Let's connect, collaborate, and code the future together!
 
 
 ## 🌐 Socials:
