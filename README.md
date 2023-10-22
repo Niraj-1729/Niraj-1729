@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Niraj-1729/Niraj-1729/master/image_20231022_10070721a4c402-6d21-4dde-982f-3f573a903e43-1.jpg" />
 </p>
 
-<h1 align="center"> <img src="https://github.com/Niraj-1729/Niraj-1729/blob/main/download.gif" width="35px" height="35px"> # Hi there, I am Artificial Human !!</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/Niraj-1729/Niraj-1729/master/download.gif" /> width="35px" height="35px"> 🤖 Hi there, I am Artificial Human !!</h1>
 
                                               N I R A J  K U M A R  🤖
                           Web Developer | Open Source Enthusiast | Flutter Developer | DSA
