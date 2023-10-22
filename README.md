@@ -2,22 +2,24 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-<h1 align="center"># Hi there <img src=" https://i.gifer.com/Ow1T.gif" width="35px" height="35px"> , I am Niraj !!</h1>
+<h1 align="center"># Hi there <img src=" xyz" width="35px" height="35px"> , I am Artificial Human !!</h1>
 
-                                              M O H I T  Y A D A V ✨
-                          Web Developer | Open Source Enthusiast | Explorer | DSA
+                                              N I R A J  K U M A R  🤖
+                          Web Developer | Open Source Enthusiast | Flutter Developer | DSA
 
 # 👨🏻‍💻 About Me:
-- 🎓 I'm pursuing my Btech in Information Technology Madan Mohan Malaviya University of Technology,Gorakhpur 
+- 🎓 I'm pursuing my Btech in Information Technology Madan Mohan Malaviya University of Technology,Gorakhpur
+- 🚀 Innovative 3rd-year Computer Science student with a passion for crafting exceptional digital experiences
 - 👯 I’m looking to collaborate with - Open Source Projects
 - 🌱 I’m currently learning Web Development & DSA
 - 💬 Ask me about JAVA, C, C++, Git, GitHub, Web Development
-- 📃 Resume - [Resume](https://drive.google.com/file/d/1ETiH4napzyMdU6Z7hjuLki8qDxQeQjR8/view?usp=drivesdk)
-- 💼 Portfolio - [Portfolio](https://mohityadav52708.github.io/My_Portfolio.github.io/)
+- 🌟 Let's connect, collaborate, and code the future together!
+- 📃 Resume - [Resume]( https://drive.google.com/file/d/1YCOO7xHCv-8lkAG1xNB6Lu29WG74zf_o/view?usp=sharing)
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/mohit_yadav_7658/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohit-yadav-777782239/) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-kumar-a81655228/) 
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/artificialhuman_1729/) 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
