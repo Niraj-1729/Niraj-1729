@@ -49,42 +49,34 @@
 # 📊 GitHub Stats:
 <h2 align="center">Stats</h2>
 <div align="center">
-<a href="https://github.com/mohityadav52708">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohityadav52708&theme=nightowl&hide_border=true&fire=DD2727" height="180em" alt="Mohit Yadav" />
+<a href="https://github.com/Niraj-1729">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Niraj-1729&theme=nightowl&hide_border=true&fire=DD2727" height="180em" alt="Niraj-1729" />
 <br/>
-<!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohityadav52708&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="Mohit Yadav" /> -->
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohityadav52708&theme=2077" height="180em" alt="Mohit Yadav" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohityadav52708&theme=2077" height="180em" alt="Mohit Yadav" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohityadav52708&theme=2077" height="180em" alt="Mohit Yadav" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohityadav52708&theme=2077" height="180em" alt="Mohit Yadav" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohityadav52708&theme=2077" height="180em" alt="Mohit Yadav" />
+<!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Niraj-1729&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="Niraj-1729" /> -->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niraj-1729&theme=2077" height="180em" alt="Niraj-1729" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niraj-1729&theme=2077" height="180em" alt=" Niraj-1729" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niraj-1729&theme=2077" height="180em" alt="Niraj-1729" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niraj-1729&theme=2077" height="180em" alt="Niraj-1729" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niraj-1729&theme=2077" height="180em" alt="Niraj-1729" />
 </div>
 
 <details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 
 
 ---
-<summary>:trophy: @mohityadav52708 Holopin board</summary>
+<summary>:trophy: @Niraj-1729 Holopin board</summary>
   <br/>
-  <a href="https://holopin.io/@mohityadav52708">
-    <img src="https://holopin.me/mohityadav52708">
+  <a href="https://holopin.io/@Niraj-1729">
+    <img src="https://holopin.me/Niraj-1729">
   </a>
 
 <summary>Github Stats</summary>
 
-[![mohityadav52708's GitHub stats](https://stats.quine.sh/mohityadav52708/github)](https://stats.quine.sh/mohityadav52708/github)
+[![Niraj-1729's GitHub stats](https://stats.quine.sh/Niraj-1729/github)](https://stats.quine.sh/Niraj-1729/github)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohityadav52708&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Niraj-1729&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-
-
----
-- 👨‍💻 All of my projects are available at my Portfolio website.
--Check out here  [https://portfolio-of-mohityadav52708.netlify.app/]( https://mohityadav52708.github.io/My_Portfolio.github.io/)
-<img src="https://raw.githubusercontent.com/mohityadav52708/mohityadav52708/master/2023-10-21 (1).png">
-<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohityadav52708&icon=0&color=0)](https://visitcount.itsvg.in)
