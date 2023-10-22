@@ -64,10 +64,10 @@
 
 
 ---
-<summary>:trophy: @Niraj-1729 Holopin board</summary>
+<summary>:trophy: @nirajai Holopin board</summary>
   <br/>
-  <a href="https://holopin.io/@Niraj-1729">
-    <img src="https://holopin.me/Niraj-1729">
+  <a href="https://holopin.io/@nirajai">
+    <img src="https://holopin.me/nirajai">
   </a>
 
 <summary>Github Stats</summary>
