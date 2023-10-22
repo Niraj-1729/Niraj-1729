@@ -1,25 +1,97 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
-# I'm an Artificial Human 🤖:
-👋 Hey there, I'm Niraj Kumar!<br>🚀 Innovative 3rd-year Computer Science student with a passion for crafting exceptional digital experiences<br>💻 I specialize in front-end web development, creating captivating UI designs, and building full-stack Flutter applications. <br> 🌟 Let's connect, collaborate, and code the future together!
+<h1 align="center"># Hi there <img src=" https://cdn.pixabay.com/animation/2023/04/12/16/59/16-59-39-387_512.gif" width="35px" height="35px"> , I am Niraj !!</h1>
+
+                                              M O H I T  Y A D A V ✨
+                          Web Developer | Open Source Enthusiast | Explorer | DSA
+
+# 👨🏻‍💻 About Me:
+- 🎓 I'm pursuing my Btech in Information Technology Madan Mohan Malaviya University of Technology,Gorakhpur 
+- 👯 I’m looking to collaborate with - Open Source Projects
+- 🌱 I’m currently learning Web Development & DSA
+- 💬 Ask me about JAVA, C, C++, Git, GitHub, Web Development
+- 📃 Resume - [Resume](https://drive.google.com/file/d/1ETiH4napzyMdU6Z7hjuLki8qDxQeQjR8/view?usp=drivesdk)
+- 💼 Portfolio - [Portfolio](https://mohityadav52708.github.io/My_Portfolio.github.io/)
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/people/Niraj-Kr/pfbid0p8YnJxtcSoa19Uro8WD3MdsiGDFszpXCsFe5iYUPDsNEnxLw7ERv6ghD844RNoVKl/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/artificialhuman_1729/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/niraj-kumar-a81655228/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/mohit_yadav_7658/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohit-yadav-777782239/) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+  ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
+  ![Python](https://img.shields.io/badge/-Pyhton-000000?style=for-the-badge&logo=Python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5) 
+  ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=Bootstrap)
+  ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React)
+  ![ExpressJS](https://img.shields.io/badge/-Express.JS-000000?style=for-the-badge&logo=Express.JS)
+  ![NodeJS](https://img.shields.io/badge/-Node.JS-000000?style=for-the-badge&logo=Node.JS)
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
+  
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub) 
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000000?style=for-the-badge&logo=VisualStudioCode)
+
+<br/>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Niraj-1729&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Niraj-1729&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-1729&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center">Stats</h2>
+<div align="center">
+<a href="https://github.com/mohityadav52708">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohityadav52708&theme=nightowl&hide_border=true&fire=DD2727" height="180em" alt="Mohit Yadav" />
+<br/>
+<!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohityadav52708&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="Mohit Yadav" /> -->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohityadav52708&theme=2077" height="180em" alt="Mohit Yadav" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohityadav52708&theme=2077" height="180em" alt="Mohit Yadav" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohityadav52708&theme=2077" height="180em" alt="Mohit Yadav" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohityadav52708&theme=2077" height="180em" alt="Mohit Yadav" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohityadav52708&theme=2077" height="180em" alt="Mohit Yadav" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Niraj-1729&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+<details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Niraj-1729&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Niraj-1729&icon=2&color=9)](https://visitcount.itsvg.in)
+<summary>:trophy: @mohityadav52708 Holopin board</summary>
+  <br/>
+  <a href="https://holopin.io/@mohityadav52708">
+    <img src="https://holopin.me/mohityadav52708">
+  </a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<summary>Github Stats</summary>
+
+[![mohityadav52708's GitHub stats](https://stats.quine.sh/mohityadav52708/github)](https://stats.quine.sh/mohityadav52708/github)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mohityadav52708&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+
+---
+- 👨‍💻 All of my projects are available at my Portfolio website.
+-Check out here  [https://portfolio-of-mohityadav52708.netlify.app/]( https://mohityadav52708.github.io/My_Portfolio.github.io/)
+<img src="https://raw.githubusercontent.com/mohityadav52708/mohityadav52708/master/2023-10-21 (1).png">
+<br/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=mohityadav52708&icon=0&color=0)](https://visitcount.itsvg.in)
+ 
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
+<br/>
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
