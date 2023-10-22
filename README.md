@@ -4,7 +4,7 @@
 
 <div align="center">
  <h1 align="center"> # Hi there, I am Niraj!!</h1>
-  <img  src="https://raw.githubusercontent.com/Niraj-1729/Niraj-1729/master/download.gif" width="100" height="100">
+  <img  src="https://raw.githubusercontent.com/Niraj-1729/Niraj-1729/master/robbot_excited.gif" width="100" height="100">
 </div>
 
 
