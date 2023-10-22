@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="https://raw.githubusercontent.com/Niraj-1729/Niraj-1729/master/1655957555204.jpeg" />
 </p>
 
 <h1 align="center"># Hi there <img src=" xyz" width="35px" height="35px"> , I am Artificial Human !!</h1>
