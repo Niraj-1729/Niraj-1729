@@ -14,11 +14,17 @@
 
 # 👨🏻‍💻 About Me:
 - 🎓 I'm pursuing my Btech in Information Technology Madan Mohan Malaviya University of Technology,Gorakhpur
+  
 - 🚀 Innovative 3rd-year Computer Science student with a passion for crafting exceptional digital experiences
+  
 - 👯 I’m looking to collaborate with - Open Source Projects
+  
 - 🌱 I’m currently learning Web Development & DSA
+  
 - 💬 Ask me about JAVA, C, C++, Git, GitHub, Web Development
-- 🌟 Let's connect, collaborate, and code the future together!
+  
+- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"> Let's connect, collaborate, and code the future together!
+  
 - 📃 Resume - [Resume]( https://drive.google.com/file/d/1YCOO7xHCv-8lkAG1xNB6Lu29WG74zf_o/view?usp=sharing)
 
 
