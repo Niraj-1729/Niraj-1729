@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-<h1 align="center"># Hi there <img src=" https://cdn.pixabay.com/animation/2023/04/12/16/59/16-59-39-387_512.gif" width="35px" height="35px"> , I am Niraj !!</h1>
+<h1 align="center"># Hi there <img src=" https://i.gifer.com/Ow1T.gif" width="35px" height="35px"> , I am Niraj !!</h1>
 
                                               M O H I T  Y A D A V ✨
                           Web Developer | Open Source Enthusiast | Explorer | DSA
