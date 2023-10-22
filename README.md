@@ -2,12 +2,6 @@
   <img src="https://raw.githubusercontent.com/Niraj-1729/Niraj-1729/master/image_20231022_10070721a4c402-6d21-4dde-982f-3f573a903e43-1.jpg" />
 </p>
 
-<div align="center">
- <h1 align="center"> # Hi there, I am Niraj!!</h1>
-  <img  src="https://raw.githubusercontent.com/Niraj-1729/Niraj-1729/master/robbot_excited.gif" width="100" height="100">
-</div>
-
-
                                               N I R A J  K U M A R  🤖
                           Web Developer | Open Source Enthusiast | Flutter Developer | DSA
 
