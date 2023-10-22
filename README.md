@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Niraj-1729/Niraj-1729/master/image_20231022_10070721a4c402-6d21-4dde-982f-3f573a903e43-1.jpg" />
 </p>
 
-<h1 align="center"># Hi there <img src=" xyz" width="35px" height="35px"> , I am Artificial Human !!</h1>
+<h1 align="center"> <img src="" width="35px" height="35px"> # Hi there, I am Artificial Human !!</h1>
 
                                               N I R A J  K U M A R  🤖
                           Web Developer | Open Source Enthusiast | Flutter Developer | DSA
@@ -87,5 +87,6 @@
 <br/>
 
 ---
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<div align="center">
+<img  src="https://raw.githubusercontent.com/Niraj-1729/Niraj-1729/master/vector-bot-alpha.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</div>
