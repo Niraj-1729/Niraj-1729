@@ -13,9 +13,9 @@
                           Web Developer | Open Source Enthusiast | Flutter Developer | DSA
 
 # 👨🏻‍💻 About Me:
-- 🎓 I'm pursuing my Btech in Information Technology Madan Mohan Malaviya University of Technology,Gorakhpur
+- 🎓 I'm pursuing my Btech in Computer Science at  Madan Mohan Malaviya University of Technology,Gorakhpur
   
-- 🚀 Innovative 3rd-year Computer Science student with a passion for crafting exceptional digital experiences
+- 🚀 Innovative Final-year Computer Science student with a passion for crafting exceptional digital experiences
   
 - 👯 I’m looking to collaborate with - Open Source Projects
   
